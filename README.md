@@ -18,7 +18,7 @@ The paper introduces a flexible framework for generating synthetic environments 
 
 ### Prerequisites
 - MATLAB R2019b or later
-- Required MATLAB toolboxes (e.g., Optimization Toolbox, Global Optimization Toolbox)
+- Required MATLAB toolboxes
 
 ### Installation
 1. Clone the repository:
