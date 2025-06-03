@@ -23,7 +23,7 @@ The paper introduces a flexible framework for generating synthetic environments 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/UAV-Path-Planning-Benchmark.git
+   git clone https://github.com/Anomaly33/UAV-Path-Planning-Benchmark.git
 2. Open the cloned repository in MATLAB.
 
 ### Running the Code
