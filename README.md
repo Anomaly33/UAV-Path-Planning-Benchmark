@@ -33,3 +33,15 @@ The paper introduces a flexible framework for generating synthetic environments 
 - Run Benchmark Experiments: Execute the benchmark script to run comparative experiments on the provided test scenarios:
   ```bash
   run('examples/NSGA-II/NSGAII.m')
+
+If you find this work useful in your research, please consider citing our paper:
+```bash
+@article{darlan2025multi,
+  title={A multi-objective benchmark for UAV path planning with baseline results},
+  author={Darlan, Daison and Ajani, Oladayo S and Paul, Anand and Mallipeddi, Rammohan},
+  journal={Swarm and Evolutionary Computation},
+  volume={96},
+  pages={101968},
+  year={2025},
+  publisher={Elsevier}
+}
