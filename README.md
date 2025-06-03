@@ -29,7 +29,7 @@ The paper introduces a flexible framework for generating synthetic environments 
 ### Running the Code
 - Generate Environments: In MATLAB, run the environment generator script to create and visualize sample environments:
   ```bash
-  run('examples/run_environment.m')
+  run('Problem Generation/City.m')
 - Run Benchmark Experiments: Execute the benchmark script to run comparative experiments on the provided test scenarios:
   ```bash
-  run('examples/run_benchmark.m')
+  run('examples/NSGA-II/NSGAII.m')
