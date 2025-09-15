@@ -6,6 +6,8 @@ This repository contains the MATLAB source code associated with the paper:
 
 The paper introduces a flexible framework for generating synthetic environments (urban, suburban, and mountainous) and presents adapted versions of several multi-objective evolutionary algorithms (MOEAs) used in the comparative analysis for UAV path planning. 
 
+Generated environment examples:
+
 ![City](figures/City.jpg)
 
 ![Suburb](figures/Suburb.jpg)
