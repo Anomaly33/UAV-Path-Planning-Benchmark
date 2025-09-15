@@ -4,7 +4,10 @@ This repository contains the MATLAB source code associated with the paper:
 **A Multi-objective Benchmark for UAV Path Planning with Baseline Results**  
 *Authors: Daison Darlan, Oladayo S. Ajani, Anand Paul, Rammohan Mallipeddi*
 
-The paper introduces a flexible framework for generating synthetic environments (urban, suburban, and mountainous) and presents adapted versions of several multi-objective evolutionary algorithms (MOEAs) used in the comparative analysis for UAV path planning. This repository provides the MATLAB code for:
+The paper introduces a flexible framework for generating synthetic environments (urban, suburban, and mountainous) and presents adapted versions of several multi-objective evolutionary algorithms (MOEAs) used in the comparative analysis for UAV path planning. 
+
+
+This repository provides the MATLAB code for:
 
 - **Environment Generation:** MATLAB scripts to generate realistic simulation environments including terrain modeling (using sinusoidal and Gaussian-based formulations), building placement, and no-fly zone integration.
 - **Algorithm Implementations:** Adapted and benchmarked MATLAB implementations of several MOEAs for UAV path planning, including:
